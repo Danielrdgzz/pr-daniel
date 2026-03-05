@@ -9,3 +9,7 @@ Avanzamos en la actividad, logramos acabar gran parte de la fase 2, configuramos
 
 <img width="1440" height="900" alt="Captura desde 2026-03-04 09-27-17" src="https://github.com/user-attachments/assets/d277c983-87d3-44e7-8de8-c2841e471ad8" />
 
+Día 3 (05/03/26):
+Tras investigar nos desatascamos en la fase 3 de la tarea y conseguimos avanzar y por fin conectamos ambas instancias de packet tracer mediante el multiuser y conseguimos realizar el DNS cruzado entre ambos servidores
+
+<img width="1440" height="900" alt="Captura desde 2026-03-05 13-41-19" src="https://github.com/user-attachments/assets/8f23d546-4c8e-45bd-8878-bc455e1b9e03" />
