@@ -13,3 +13,6 @@ Día 3 (05/03/26):
 Tras investigar nos desatascamos en la fase 3 de la tarea y conseguimos avanzar y por fin conectamos ambas instancias de packet tracer mediante el multiuser y conseguimos realizar el DNS cruzado entre ambos servidores
 
 <img width="1440" height="900" alt="Captura desde 2026-03-05 13-41-19" src="https://github.com/user-attachments/assets/8f23d546-4c8e-45bd-8878-bc455e1b9e03" />
+
+Día 4 (6/03/26):
+Nos dieron la opción de teletrabajar hoy día viernes así que procedí a traerme el ejercicio a casa y continuar avanzando dentro de la fase 4 que recién comenzamos el día anterior. 
