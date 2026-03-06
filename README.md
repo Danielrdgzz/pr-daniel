@@ -16,3 +16,8 @@ Tras investigar nos desatascamos en la fase 3 de la tarea y conseguimos avanzar 
 
 Día 4 (6/03/26):
 Nos dieron la opción de teletrabajar hoy día viernes así que procedí a traerme el ejercicio a casa y continuar avanzando dentro de la fase 4 que recién comenzamos el día anterior. 
+Instalamos ACLs extendidas dentro de ambas instancias de Packet Tracer para posteriormente verificarlas buscando que den ping y que estén bloqueadas ciertas direcciones.
+
+<img width="1919" height="1079" alt="Captura de pantalla 2026-03-06 121800" src="https://github.com/user-attachments/assets/9444d4f5-f0d3-4f3d-9e9a-a935ed37e6db" />
+
+Nos encontramos con un problema dentro de las instancias que no nos permite dar ping a direcciones IP fuera de su instancia, a pesar de que anteriormente daba ping, posiblemente es un error dado al momento de añadir las ACLs con direcciones IP incorrectas.
