@@ -19,11 +19,12 @@ Tras investigar nos desatascamos en la fase 3 de la tarea y conseguimos avanzar 
 
 Día 4 (6/03/26):
 Nos dieron la opción de teletrabajar hoy día viernes así que procedí a traerme el ejercicio a casa y continuar avanzando dentro de la fase 4 que recién comenzamos el día anterior. 
-Instalamos ACLs extendidas dentro de ambas instancias de Packet Tracer para posteriormente verificarlas buscando que den ping y que estén bloqueadas ciertas direcciones.
+Instalamos ACLs extendidas dentro de ambas instancias de Packet Tracer para posteriormente verificarlas buscando que den ping y que estén bloqueadas ciertas direcciones.Nos encontramos con un problema dentro de las instancias que no nos permite dar ping a direcciones IP fuera de su instancia, a pesar de que anteriormente daba ping, posiblemente es un error dado al momento de añadir las ACLs con direcciones IP incorrectas.
+
+<img width="1919" height="1079" alt="Captura de pantalla 2026-03-06 121800" src="https://github.com/user-attachments/assets/9444d4f5-f0d3-4f3d-9e9a-a935ed37e6db" />
 
 Día 5 (09/3/26):
 Luego de recapaticar sobre las ACLs y por qué no conseguíamos verificar el primer ping de entre el PC-A y el Thingspeak-B, nos encontramos con diferentes errores dentro de las ACLs y de la configuración de NAT. Una vez resuelto eso ya funciona el ping, así que avanzamos a la siguiente comprobación. Nos percatamos que el Home Getaway estaba creando una red propia para asignar las direcciones IP a los dispositivos IoT, así que reemplazamos el Home Getaway con un Punto de Acceso que funciona como puente y hace que los dispositivos de IoT si tengan direcciones IP dentro de la VLAN correspondiente (20).
 
-<img width="1919" height="1079" alt="Captura de pantalla 2026-03-06 121800" src="https://github.com/user-attachments/assets/9444d4f5-f0d3-4f3d-9e9a-a935ed37e6db" />
+<img width="1374" height="727" alt="Captura desde 2026-03-09 13-43-51" src="https://github.com/user-attachments/assets/2f2366e1-9baa-4980-85f2-9cf3918fc524" />
 
-Nos encontramos con un problema dentro de las instancias que no nos permite dar ping a direcciones IP fuera de su instancia, a pesar de que anteriormente daba ping, posiblemente es un error dado al momento de añadir las ACLs con direcciones IP incorrectas.
