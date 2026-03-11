@@ -28,3 +28,10 @@ Luego de recapaticar sobre las ACLs y por qué no conseguíamos verificar el pri
 
 <img width="1374" height="727" alt="Captura desde 2026-03-09 13-43-51" src="https://github.com/user-attachments/assets/2f2366e1-9baa-4980-85f2-9cf3918fc524" />
 
+Día 6 (11/03/26):
+
+Una vez modificadas las ACLs y habiendo modificado la estructura, comenzamos las pruebas de pings para completar la fase 4 y luego de una pequeña correción nueva dentro de las ACLs, logramos verificar los 8 pings de manera correcta y funcionan como esperado. La razón por la que el ping P3 pasa es porque el origen y el destino pertenecen a la VLAN 20 de ambas instancias. En la ALC donde se decide es en la 20, se aplica en el Router A. Por otro lado, P4 falla de manera intencional porque se deniega, al no existir una ACL que permita el tráfico entre la VLAN 20 y la 30 de la otra instancia, se aplica un bloqueo. Este bloqueo existe en la linea 40.
+
+<img width="1365" height="623" alt="P6" src="https://github.com/user-attachments/assets/2ec7efe8-6ad8-41fa-99e6-3508621cccb4" />
+
+
