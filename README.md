@@ -34,4 +34,10 @@ Una vez modificadas las ACLs y habiendo modificado la estructura, comenzamos las
 
 <img width="1365" height="623" alt="P6" src="https://github.com/user-attachments/assets/2ec7efe8-6ad8-41fa-99e6-3508621cccb4" />
 
+Una vez obtenidas todas las verificaciones de la fase 4, la damos por finalizada y comenzamos con la fase 5. Registramos los dispositivos IoT dentro de los servidores como se nos indicó:
+
+<img width="748" height="509" alt="Captura desde 2026-03-11 12-31-11" src="https://github.com/user-attachments/assets/d90f879e-54e8-4d0d-a8e3-2cb72425f4da" />
+
+<img width="748" height="509" alt="Captura desde 2026-03-11 12-46-47" src="https://github.com/user-attachments/assets/1fb143ec-3a79-49da-b594-1c2080adc24a" />
+
 
