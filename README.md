@@ -40,4 +40,13 @@ Una vez obtenidas todas las verificaciones de la fase 4, la damos por finalizada
 
 <img width="748" height="509" alt="Captura desde 2026-03-11 12-46-47" src="https://github.com/user-attachments/assets/1fb143ec-3a79-49da-b594-1c2080adc24a" />
 
+Día 7 (12/03/26):
+
+Luego de registrar los dispositivos IoT, comenzamos a añadir condicionales y a cambiarlos de dirección de tal forma que ahora la sirena de la casa B se activa cuando se detecta movimiento o se abre la puerta en la casa A, y viceversa.
+
+<img width="1375" height="761" alt="Captura desde 2026-03-12 10-24-39" src="https://github.com/user-attachments/assets/88f7200b-18c0-4f77-9707-d1e89188d7b1" />
+
+<img width="1375" height="761" alt="Captura desde 2026-03-12 10-25-04" src="https://github.com/user-attachments/assets/7f81c895-a5f0-4395-9b2d-8b05728de996" />
+
+
 
