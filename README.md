@@ -48,5 +48,7 @@ Luego de registrar los dispositivos IoT, comenzamos a añadir condicionales y a 
 
 <img width="1375" height="761" alt="Captura desde 2026-03-12 10-25-04" src="https://github.com/user-attachments/assets/7f81c895-a5f0-4395-9b2d-8b05728de996" />
 
+Una vez hecho la verificación, procedemos a realizar las ultimas preguntas y cuestiones de teoría sobre la práctica.
+
 
 
