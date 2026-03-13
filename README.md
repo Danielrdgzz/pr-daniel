@@ -50,5 +50,8 @@ Luego de registrar los dispositivos IoT, comenzamos a añadir condicionales y a 
 
 Una vez hecho la verificación, procedemos a realizar las ultimas preguntas y cuestiones de teoría sobre la práctica.
 
+Día 8 (13/03/26):
+
+Una vez terminado todas las actividades de Packet Tracer, procedemos a comenzar con el planteamiento y el comienzo de la realización de nuestra nueva tarea en la que nos encargamos de crear un BACKEND utilizando MYSQL y PHP. Comenzamos por ver un curso de OpenWebinars sobre Sitios dinámicos con PHP y MYSQL.
 
 
