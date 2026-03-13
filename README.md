@@ -52,6 +52,6 @@ Una vez hecho la verificación, procedemos a realizar las ultimas preguntas y cu
 
 Día 8 (13/03/26):
 
-Una vez terminado todas las actividades de Packet Tracer, procedemos a comenzar con el planteamiento y el comienzo de la realización de nuestra nueva tarea en la que nos encargamos de crear un BACKEND utilizando MYSQL y PHP. Comenzamos por ver un curso de OpenWebinars sobre Sitios dinámicos con PHP y MYSQL.
+Una vez terminado todas las actividades de Packet Tracer, procedemos a comenzar con el planteamiento y el comienzo de la realización de nuestra nueva tarea en la que nos encargamos de crear un BACKEND utilizando MYSQL y PHP. Comenzamos por ver un curso de OpenWebinars sobre Sitios dinámicos con PHP y MYSQL. De momento el curso estoy colocando lo básico, tanto la base de datos como las herramientas a utilizar dentro.
 
 
