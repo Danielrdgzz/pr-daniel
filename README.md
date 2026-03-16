@@ -57,5 +57,3 @@ Una vez terminado todas las actividades de Packet Tracer, procedemos a comenzar 
 Día 9 (16/03/26):
 
 Continuamos el curso de OpenWebinars y seguimos avanzando en consolidar temario y contenidos para poder realizar el Backend utilizando PHP y MYSQL.
-
-
