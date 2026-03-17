@@ -60,3 +60,8 @@ Continuamos el curso de OpenWebinars y seguimos avanzando en consolidar temario 
 
 <img width="1372" height="864" alt="Captura desde 2026-03-16 13-07-31" src="https://github.com/user-attachments/assets/a82f6344-1afc-4d21-968a-bc24907e4a56" />
 
+Día 10 (17/03/26):
+
+Seguimos avanzando el curso de OpenWebinars para prepararnos en la realización del Backend. Hemos hecho la conexión de PHP con MYSQL y estamos tratando con funciones básicas de base de datos para consolidar temario.
+
+<img width="1376" height="826" alt="Captura desde 2026-03-17 13-42-01" src="https://github.com/user-attachments/assets/f42797fe-f7e1-4d68-94f5-ba230b5d93e7" />
