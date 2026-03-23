@@ -65,3 +65,10 @@ Día 10 (17/03/26):
 Seguimos avanzando el curso de OpenWebinars para prepararnos en la realización del Backend. Hemos hecho la conexión de PHP con MYSQL y estamos tratando con funciones básicas de base de datos para consolidar temario.
 
 <img width="1376" height="826" alt="Captura desde 2026-03-17 13-42-01" src="https://github.com/user-attachments/assets/f42797fe-f7e1-4d68-94f5-ba230b5d93e7" />
+
+Día 11, 12 y 13 (18-20/03/26):
+
+Al dar por canceladas las clases por el temporal y dar la jornada de forma telemática, procedí a continuar con el curso de openwebinars para completarlo y así tener más claro como realizar el backend de la página web.
+
+Día 14 (23/03/26):
+Aproveché mi cumpleaños en la empresa pasándo todo lo que había aprendido de casa del curso y colocandolo en la máquina con ubuntu para posteriormente el próximo día comenzar con la creación del backend.
