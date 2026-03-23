@@ -72,3 +72,7 @@ Al dar por canceladas las clases por el temporal y dar la jornada de forma telem
 
 Día 14 (23/03/26):
 Aproveché mi cumpleaños en la empresa pasándo todo lo que había aprendido de casa del curso y colocandolo en la máquina con ubuntu para posteriormente el próximo día comenzar con la creación del backend.
+
+<img width="1372" height="820" alt="imagen" src="https://github.com/user-attachments/assets/1705cdc0-8efe-4192-9b47-8decd0f05d61" />
+
+
