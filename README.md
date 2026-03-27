@@ -75,4 +75,16 @@ Aproveché mi cumpleaños en la empresa pasándo todo lo que había aprendido de
 
 <img width="1372" height="820" alt="imagen" src="https://github.com/user-attachments/assets/1705cdc0-8efe-4192-9b47-8decd0f05d61" />
 
+Día 15 (24/03/26) DÍA DE VISITA AL INSTITUTO
+
+Día 16 (25/03/26):
+Al haber tormenta, alerta y al haber puesto las clases de forma telemática, aproveché en casa para seguir consolidando para poder comenzar con seguridad el backend de la empresa.
+
+Día 17 (26/03/26):
+Tuvimos una reunión donde comentamos todo lo que se necesitaba tanto del backend como del frontend de la web. Hicimos un esquema de las tablas que había que tener en la base de datos junto con sus relaciones además de pruebas para futuras consultas sobre las actuaciones o servicios de los profesionales.
+
+Día 18 (27/03/26):
+Pasé gran parte del día haciendo pruebas de consultas SQL, al mismo tiempo que realicé una prueba de conversión de formato de php a JSON para poder mandar los datos de las tablas de la base de datos al frontend.
+
+<img width="1372" height="801" alt="imagen" src="https://github.com/user-attachments/assets/e99761e1-0d5d-44fd-82f6-8718fb64f761" />
 
