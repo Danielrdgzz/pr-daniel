@@ -88,7 +88,13 @@ Pasé gran parte del día haciendo pruebas de consultas SQL, al mismo tiempo que
 
 <img width="1372" height="801" alt="imagen" src="https://github.com/user-attachments/assets/e99761e1-0d5d-44fd-82f6-8718fb64f761" />
 
-Día 19 (06/23/26):
+Día 19 (06/04/26):
 El día consistió en filtrar los datos de la base de datos en el JSON para que se mostrasen únicamente ciertos datos en específico. Además, Nasser nos puso la tarea de construir un formulario para que los profesionales sean capaces de añadir nuevas actuaciones dentro de la base de datos, esto con una consulta SQL con los datos del formularios importados directamente al script para que haga el cambio. El único inconveniente es conseguir que desde el frontend se pueda sincronizar la "sesión" de dicho profesional con la ID de la base de datos, para que así los profesionales no puedan añadir actuaciones o servicios a diferentes profesionales.
 
 <img width="1380" height="876" alt="imagen" src="https://github.com/user-attachments/assets/814f8b37-b024-4ea5-a8fb-018c6d72485c" />
+
+Día 20 (07/04/26):
+
+Seguimos montando el backend, realicé una estructura más ordenada ya que me informaron que no hacía falta el login por token asignado a la sesión para mandar a la base de datos. Añadí las estadísticas de horas totales impartidas por profesional y horas totales recibidas por usuario y separé el .php principal de la api y lo dividí en controller, models y api, para que, en caso de que falle algo, el error sea más fácil de encontrar.
+
+<img width="1375" height="781" alt="image" src="https://github.com/user-attachments/assets/4ecd6e0d-28ed-46e9-afb2-d6f8e0c9239e" />
