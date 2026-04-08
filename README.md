@@ -98,3 +98,12 @@ Día 20 (07/04/26):
 Seguimos montando el backend, realicé una estructura más ordenada ya que me informaron que no hacía falta el login por token asignado a la sesión para mandar a la base de datos. Añadí las estadísticas de horas totales impartidas por profesional y horas totales recibidas por usuario y separé el .php principal de la api y lo dividí en controller, models y api, para que, en caso de que falle algo, el error sea más fácil de encontrar. También añadí una carpeta llamada "old" donde tengo guardados los antiguos scripts php por si en algún momento necesito hacer uso de alguno más adelante.
 
 <img width="1375" height="781" alt="image" src="https://github.com/user-attachments/assets/4ecd6e0d-28ed-46e9-afb2-d6f8e0c9239e" />
+
+Día 21 (08/04/26):
+
+Mientras termino las funciones principales del backend, he decidido añadir dentro de la base de datos la tabla de talleres, ya que Nerea nos comentó que quería poder ver los talleres, el tipo de taller, el profesional que la imparte y los usuarios beneficiaros por el taller. Lo completamos de manera ordenada dentro de cada carpeta y añadimos un ejemplo para verificarlo dentro de la página en JSON. También hemos añadido más usuarios, más profesionales y más ejemplos para que la base de datos se vea con contenido.
+
+<img width="1128" height="459" alt="image" src="https://github.com/user-attachments/assets/a393b207-04f0-46d9-919d-35aaacc3a96b" />
+
+<img width="1376" height="817" alt="image" src="https://github.com/user-attachments/assets/38d48b81-6146-41fd-bf7f-38792d266b77" />
+
