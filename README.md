@@ -107,3 +107,6 @@ Mientras termino las funciones principales del backend, he decidido añadir dent
 
 <img width="1376" height="817" alt="image" src="https://github.com/user-attachments/assets/38d48b81-6146-41fd-bf7f-38792d266b77" />
 
+Día 22 (09/04/26):
+
+El día consistió en verificar que la base de datos estuviese completa y que no hubiesen ningún error de sintaxis o de escritura en general. Quedo a la espera del frontend para poder unirlo y confirmar que los datos funcionen correctamente y que la base de datos también lo haga.
