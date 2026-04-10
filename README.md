@@ -110,3 +110,8 @@ Mientras termino las funciones principales del backend, he decidido añadir dent
 Día 22 (09/04/26):
 
 El día consistió en verificar que la base de datos estuviese completa y que no hubiesen ningún error de sintaxis o de escritura en general. Quedo a la espera del frontend para poder unirlo y confirmar que los datos funcionen correctamente y que la base de datos también lo haga.
+
+
+Día 23 (10/04/26):
+
+Hoy seguí revisando fallos del backend y a su vez me encargué de añadir lineas dentro para asegurar que la conexión con el frontend sea segura. Hoy comenzamos a preparar el frontend y a analizar cómo juntarlos para poder realizar pruebas sin necesidad de moverse mucho entre un ordenador a otro.
