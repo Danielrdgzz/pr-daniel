@@ -122,3 +122,9 @@ Día 24 (13/04/26):
 El día de hoy el aula se estuvo utilizando para una clase, así que tuve que moverme a otro ordenador sin la base de datos ni el backend, pero no hubo problema ya que mi parte del proyecto ya estaba terminada y, a no ser que estuviese mi compañera conmigo no podía adaptar el backend, ya que ella se encarga del frontend. Aproveché el tiempo y me puse a trabajar con herramientas de google con inteligencia artificial y propuse la situación de la empresa para ver cuáles otros métodos para solucionarlo existían. Llegué a trabajar con Google AI Studio y con Firebase, la solución y la APP que me generó fue bastante interesante, aunque me fijé más en la estética del frontend que propuso para, si es posible, implementarla dentro de nuestro proyecto.
 
 <img width="1254" height="927" alt="image" src="https://github.com/user-attachments/assets/0af0157c-1279-4cb6-b563-e0269395a4e3" />
+
+
+Día 25 (14/04/26):
+VISITA AL INSTITUTO
+
+Día 26 (15/04/26):
