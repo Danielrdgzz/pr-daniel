@@ -128,3 +128,7 @@ Día 25 (14/04/26):
 VISITA AL INSTITUTO
 
 Día 26 (15/04/26):
+
+Hicimos retoques al frontend ya que tuvimos que cambiar un poco la estructura, también se tuvo que agregar más detalles y ejemplos al backend, debido a que no teníamos datos necesarios para realizar pruebas y tampoco teníamos un filtro de profesionales y actuaciones (es decir, que el fisioterapeuta podía colocar un servicio que no estaba asociado a los suyos o a sus usuarios).
+
+<img width="1535" height="828" alt="imagen" src="https://github.com/user-attachments/assets/022fc2e5-823f-4d57-bae2-4cf3f58f89b8" />
