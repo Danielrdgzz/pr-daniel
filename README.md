@@ -132,3 +132,11 @@ Día 26 (15/04/26):
 Hicimos retoques al frontend ya que tuvimos que cambiar un poco la estructura, también se tuvo que agregar más detalles y ejemplos al backend, debido a que no teníamos datos necesarios para realizar pruebas y tampoco teníamos un filtro de profesionales y actuaciones (es decir, que el fisioterapeuta podía colocar un servicio que no estaba asociado a los suyos o a sus usuarios).
 
 <img width="1535" height="828" alt="imagen" src="https://github.com/user-attachments/assets/022fc2e5-823f-4d57-bae2-4cf3f58f89b8" />
+
+Día 27 (16/04/26):
+
+Cambiamos gran parte de la estructura, creamos nuevas partes de la API e hicimos una estructura diferente para el frontend. El mayor logro de este día fue poder conectar el frontend con el backend.
+
+Día 28 (17/04/26):
+
+Tuvimos que reestructurar diferentes partes del frontend, crear nuevos archivos .php y por fin, el formulario del frontend da la información correcta sobre los usuarios de la base de datos, es el mayor avance que hemos hecho hasta el momento, lo siguiente que queda es preparar el sistema de loggeo para que, posteriormente, se pueda registrar una actuación dentro de la base de datos.
