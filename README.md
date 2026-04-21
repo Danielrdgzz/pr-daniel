@@ -143,4 +143,10 @@ Tuvimos que reestructurar diferentes partes del frontend, crear nuevos archivos 
 
 Día 29 (20/04/26):
 
-Gran parte de la jornada nos la pasamos averiguando el por qué al momento de mandar el formulario mediante una consulta POST llegaba al backend pero no a la base de datos, así que poco a poco estamos averiguando el problema hasta que lo solucionemos por completo y podamos finalizar la prueba
+Gran parte de la jornada nos la pasamos averiguando el por qué al momento de mandar el formulario mediante una consulta POST llegaba al backend pero no a la base de datos, así que poco a poco estamos averiguando el problema hasta que lo solucionemos por completo y podamos finalizar la prueba.
+
+Día 30 (21/04/26):
+
+Procedimos a crear un filtro para que, una vez los profesionales inicien su sesión, les aparezca sus respectivos usuarios y sus respectivos servicios para realizar el formulario de manera individual, también se modificó la estructura de la base de datos y se agregó un archivo php para filtrar estos usuarios y servicios.
+<img width="1526" height="887" alt="imagen" src="https://github.com/user-attachments/assets/fdd783c7-4385-4ab4-b9fb-44e79022e550" />
+
