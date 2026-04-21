@@ -140,3 +140,7 @@ Cambiamos gran parte de la estructura, creamos nuevas partes de la API e hicimos
 Día 28 (17/04/26):
 
 Tuvimos que reestructurar diferentes partes del frontend, crear nuevos archivos .php y por fin, el formulario del frontend da la información correcta sobre los usuarios de la base de datos, es el mayor avance que hemos hecho hasta el momento, lo siguiente que queda es preparar el sistema de loggeo para que, posteriormente, se pueda registrar una actuación dentro de la base de datos.
+
+Día 29 (20/04/26):
+
+Gran parte de la jornada nos la pasamos averiguando el por qué al momento de mandar el formulario mediante una consulta POST llegaba al backend pero no a la base de datos, así que poco a poco estamos averiguando el problema hasta que lo solucionemos por completo y podamos finalizar la prueba
