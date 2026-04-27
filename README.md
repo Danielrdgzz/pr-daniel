@@ -153,3 +153,6 @@ Procedimos a crear un filtro para que, una vez los profesionales inicien su sesi
 Día 31 (22/04/26):
 
 Hoy aprovechamos el día para optimizar todos los archivos, simplificar algunas consultas y así evitar errores futuros. 
+
+Día 32-33 (23-24/04/26):
+Al haber nadie en la empresa para supervisar, se nos recomendó realizar teletrabajo, por lo que aproveché para buscar formas de optimizar el PHP y también hice varios planteamientos sobre diferentes situaciones de cómo implementar este proyecto al sistema de la empresa.
