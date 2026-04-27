@@ -156,3 +156,7 @@ Hoy aprovechamos el día para optimizar todos los archivos, simplificar algunas 
 
 Día 32-33 (23-24/04/26):
 Al haber nadie en la empresa para supervisar, se nos recomendó realizar teletrabajo, por lo que aproveché para buscar formas de optimizar el PHP y también hice varios planteamientos sobre diferentes situaciones de cómo implementar este proyecto al sistema de la empresa.
+
+Día 34 (27/04/26):
+
+Hoy al no tener a mi compañera (y, por ende, no tener el frontend), me dediqué a plantear el cómo integrar el sistema de tokens por login a nuestro proyecto.
