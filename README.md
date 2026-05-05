@@ -160,3 +160,12 @@ Al haber nadie en la empresa para supervisar, se nos recomendó realizar teletra
 Día 34 (27/04/26):
 
 Hoy al no tener a mi compañera (y, por ende, no tener el frontend), me dediqué a plantear el cómo integrar el sistema de tokens por login a nuestro proyecto.
+
+Día 35 (28/04/26):
+VISITA AL INSTITUTO
+
+Día 36, 37 y 38 (29-04/0/26):
+Nasser nos comunicó que, debido a un viaje, no iba a poder estar en la empresa, por lo que nos tocó hacer teletrabajo. Estuve analizando la estructura del backend y de cómo conseguir que podamos hacer pruebas con tokens e IDs sin necesidad de cargarnos el esquema que tenemos ya creado.
+
+Día 39 (05/04/26):
+Luego del puente, decidimos poner a prueba nuestro sistema e implementarlo a la base de datos real de la empresa
