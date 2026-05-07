@@ -169,3 +169,7 @@ Nasser nos comunicó que, debido a un viaje, no iba a poder estar en la empresa,
 
 Día 39 (05/04/26):
 Luego del puente, decidimos poner a prueba nuestro sistema e implementarlo a la base de datos real de la empresa. Resolvimos un pequeño problema que no dejaba registrar actuaciones de otros profesionales ya que la actividad no estaba vinculada a ningún servicio, pero se resolvió rápido.
+
+Día 40 (07/04/26):
+Comenzamos por crear una dashboard para el administrador y para los profesionales donde salga de forma más detallada la información tanto de usuarios como de actuaciones.
+<img width="1539" height="827" alt="image" src="https://github.com/user-attachments/assets/984821a3-70fb-4655-9cfb-ce677fbb0e5e" />
