@@ -173,3 +173,9 @@ Luego del puente, decidimos poner a prueba nuestro sistema e implementarlo a la 
 Día 40 (07/04/26):
 Comenzamos por crear una dashboard para el administrador y para los profesionales donde salga de forma más detallada la información tanto de usuarios como de actuaciones.
 <img width="1539" height="827" alt="image" src="https://github.com/user-attachments/assets/984821a3-70fb-4655-9cfb-ce677fbb0e5e" />
+
+
+Día 42 (11/04/26):
+Comenzamos la semana por encargarnos de la creación de la nueva dasboard de administrador, creé diferentes subpáginas con tablas de registro directamente conectadas a la base de datos, donde se muestra tanto la información del listado de Usuarios, como el listado de Profesionales y un listado de las actuaciones registradas con su fecha, hora, qué profesional las impartió y qué usuario se benefició.
+
+<img width="1534" height="783" alt="imagen" src="https://github.com/user-attachments/assets/e92be246-29c3-40be-b405-c21632a6aff8" />
