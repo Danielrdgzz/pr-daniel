@@ -181,3 +181,8 @@ Día 42 (11/05/26):
 Comenzamos la semana por encargarnos de la creación de la nueva dasboard de administrador, creé diferentes subpáginas con tablas de registro directamente conectadas a la base de datos, donde se muestra tanto la información del listado de Usuarios, como el listado de Profesionales y un listado de las actuaciones registradas con su fecha, hora, qué profesional las impartió y qué usuario se benefició.
 
 <img width="1534" height="783" alt="imagen" src="https://github.com/user-attachments/assets/e92be246-29c3-40be-b405-c21632a6aff8" />
+
+
+Día 43 (12/05/26):
+
+Cambié un poco el .js de la tabla de actuaciones ya que se mostraba de manera erronea el listado de los profesionales y de los usuarios
