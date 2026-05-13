@@ -185,4 +185,6 @@ Comenzamos la semana por encargarnos de la creación de la nueva dasboard de adm
 
 Día 43 (12/05/26):
 
-Cambié un poco el .js de la tabla de actuaciones ya que se mostraba de manera erronea el listado de los profesionales y de los usuarios
+Cambié un poco el .js de la tabla de actuaciones ya que se mostraba de manera erronea el listado de los profesionales y de los usuarios, también he creado casi por completo el diseño de la página principal de administración, con su sidebar de las tablas correspondientes y una presentación sencilla y formal.
+
+<img width="1541" height="825" alt="imagen" src="https://github.com/user-attachments/assets/676abfb4-5bd0-4ef2-beb3-bcfb170421c2" />
