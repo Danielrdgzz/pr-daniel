@@ -164,18 +164,20 @@ Hoy al no tener a mi compañera (y, por ende, no tener el frontend), me dediqué
 Día 35 (28/04/26):
 VISITA AL INSTITUTO
 
-Día 36, 37 y 38 (29-04/0/26):
+Día 36, 37 y 38 (29-04/05/26):
 Nasser nos comunicó que, debido a un viaje, no iba a poder estar en la empresa, por lo que nos tocó hacer teletrabajo. Estuve analizando la estructura del backend y de cómo conseguir que podamos hacer pruebas con tokens e IDs sin necesidad de cargarnos el esquema que tenemos ya creado.
 
 Día 39 (05/04/26):
 Luego del puente, decidimos poner a prueba nuestro sistema e implementarlo a la base de datos real de la empresa. Resolvimos un pequeño problema que no dejaba registrar actuaciones de otros profesionales ya que la actividad no estaba vinculada a ningún servicio, pero se resolvió rápido.
 
-Día 40 (07/04/26):
+Día 40 (07/05/26):
 Comenzamos por crear una dashboard para el administrador y para los profesionales donde salga de forma más detallada la información tanto de usuarios como de actuaciones.
 <img width="1539" height="827" alt="image" src="https://github.com/user-attachments/assets/984821a3-70fb-4655-9cfb-ce677fbb0e5e" />
 
+Día 41 (08/05/26):
+Este día no pude asistir a la empresa debido a que se me había contratado para un evento.
 
-Día 42 (11/04/26):
+Día 42 (11/05/26):
 Comenzamos la semana por encargarnos de la creación de la nueva dasboard de administrador, creé diferentes subpáginas con tablas de registro directamente conectadas a la base de datos, donde se muestra tanto la información del listado de Usuarios, como el listado de Profesionales y un listado de las actuaciones registradas con su fecha, hora, qué profesional las impartió y qué usuario se benefició.
 
 <img width="1534" height="783" alt="imagen" src="https://github.com/user-attachments/assets/e92be246-29c3-40be-b405-c21632a6aff8" />
