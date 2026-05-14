@@ -188,3 +188,14 @@ Día 43 (12/05/26):
 Cambié un poco el .js de la tabla de actuaciones ya que se mostraba de manera erronea el listado de los profesionales y de los usuarios, también he creado casi por completo el diseño de la página principal de administración, con su sidebar de las tablas correspondientes y una presentación sencilla y formal.
 
 <img width="1541" height="825" alt="imagen" src="https://github.com/user-attachments/assets/676abfb4-5bd0-4ef2-beb3-bcfb170421c2" />
+
+Día 44 (13/05/26):
+
+Terminamos de modificar el listado de la dashboard de profesionales para la verificación de sus actuaciones.
+
+Día 45 (14/05/26):
+
+Terminé la tabla de actuaciones de mi dashboard de administración, modifiqué la parte del backend para que funcione correctamente y esté asociado por completo con todas las tablas y que no se quede ningún dato fuera. He implementado también un botón de borrar para que se pueda hacer drop a alguna sesión de actuación que no esté bien hecha.
+
+
+<img width="1311" height="862" alt="imagen" src="https://github.com/user-attachments/assets/094cb85c-b61c-4d0a-ade4-44301865c932" />
