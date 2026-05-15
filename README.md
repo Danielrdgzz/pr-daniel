@@ -199,3 +199,8 @@ Terminé la tabla de actuaciones de mi dashboard de administración, modifiqué 
 
 
 <img width="1311" height="862" alt="imagen" src="https://github.com/user-attachments/assets/094cb85c-b61c-4d0a-ade4-44301865c932" />
+
+
+Día 46 (15/05/26):
+
+Como último día de prácticas, terminamos de presentar todo el proyecto de lo que hemos hecho a lo largo del periodo de prácticas y hemos dejado todo preparado para que el día de mañana puedan implementar las herramientas que hemos creado para favorecer a la empresa.
